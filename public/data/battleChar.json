@@ -1,0 +1,379 @@
+{
+    "character": [
+      {
+        "id": 1,
+        "slug": "astra",
+        "name": "Astra",
+        "sex": "female",
+        "klasse": "Taktiker",
+        "info": "Die ghanaische Agentin Astra nutzt die Energien des Kosmos, um das Schlachtfeld nach ihren Vorlieben zu verändern. Durch ihre Astralform und ihr Talent für strategische Weitsicht ist sie dem nächsten Zug ihrer Gegner immer Äonen voraus.",
+        "thumb": "https://nwp-cgn.de/img/game/profil/astra.png"
+      },
+      {
+        "id": 2,
+        "slug": "breach",
+        "name": "Breach",
+        "sex": "male",
+        "klasse": "Initiator",
+        "info": "Breach, der bionisch augmentierte Schwede, verursacht gezielt mächtige kinetische Explosionen, die ohne Rücksicht auf Verluste den Weg frei räumen. Der Schaden und die Massenkontrolle stellen sicher, dass kein Kampf je fair ist.",
+        "thumb": "https://nwp-cgn.de/img/game/profil/breach.png"
+      },
+      {
+        "id": 3,
+        "slug": "brimstone",
+        "name": "Brimstone",
+        "sex": "male",
+        "klasse": "Taktiker",
+        "info": "Brimstone kommt aus den USA und sein orbitales Arsenal sorgt dafür, dass sein Team stets einen klaren Vorteil hat. Er sorgt präzise und sicher für Unterstützung, was ihn zu einem perfekten Kommandanten macht.",
+        "thumb": "https://nwp-cgn.de/img/game/profil/brimstone.png"
+      },
+      {
+        "id": 4,
+        "slug": "chamber",
+        "name": "Chamber",
+        "sex": "male",
+        "klasse": "Wächter",
+        "info": "Gut gekleidet und bewaffnet vertreibt der französische Waffendesigner Chamber Angreifer mit tödlicher Präzision. Mit seinem individuellen Arsenal behält er alles im Blick, schaltet Feinde aus der Ferne aus und hat für jeden Plan einen Plan B.",
+        "thumb": "https://nwp-cgn.de/img/game/profil/chamber.png"
+      },
+      {
+        "id": 5,
+        "slug": "cypher",
+        "name": "Cypher",
+        "sex": "male",
+        "klasse": "Wächter",
+        "info": "Cypher, der marokkanische Informationshändler, ist ein Ein-Mann-Überwachungskommando, das die Bewegungen des Gegners genau im Blick behält. Kein Geheimnis ist sicher. Kein Manöver bleibt unbeobachtet. Cypher entgeht nichts.",
+        "thumb": "https://nwp-cgn.de/img/game/profil/cypher.png"
+      },
+      {
+        "id": 6,
+        "slug": "fade",
+        "name": "Fade",
+        "sex": "female",
+        "klasse": "Initiator",
+        "info": "Die türkische Kopfgeldjägerin Fade entlockt Gegnern mit der Macht der Albträume ihre Geheimnisse. Sie arbeitet mit dem Schrecken selbst zusammen, jagt ihre Ziele und enthüllt deren Ängste – bevor sie sie in der Dunkelheit zermalmt.",
+        "thumb": "https://nwp-cgn.de/img/game/profil/fade.png"
+      },
+      {
+        "id": 7,
+        "slug": "gekko",
+        "name": "Gekko",
+        "sex": "male",
+        "klasse": "Initiator",
+        "info": "Gekko der Angeleno führt eine eingeschworene Truppe verrückter Kreaturen. Seine Freunde springen voran und vertreiben Gegner, während Gekko ihnen folgt, um sie einzusammeln und von vorne anzufangen.",
+        "thumb": "https://nwp-cgn.de/img/game/profil/gekko.png"
+      },
+      {
+        "id": 8,
+        "slug": "harbor",
+        "name": "Harbor",
+        "sex": "male",
+        "klasse": "Taktiker",
+        "info": "Harbor stürmt von Indiens Küsten mit uralter Technologie auf das Feld und beherrscht das Wasser. Er entfesselt Stromschnellen und Sturmfluten, mit denen er seine Verbündeten schützt und seine Gegner auf Abstand hält.",
+        "thumb": "https://nwp-cgn.de/img/game/profil/harbor.png"
+      },
+      {
+        "id": 9,
+        "slug": "jett",
+        "name": "Jett",
+        "sex": "female",
+        "klasse": "Duellant",
+        "info": "Jett repräsentiert ihre Heimat Südkorea, kämpft agil und weicht geschickt aus, weshalb sie Risiken eingehen kann wie niemand sonst. Sie umrundet Gefechte mit Leichtigkeit und schlitzt Gegner auf, bevor diese wissen, wie ihnen geschieht.",
+        "thumb": "https://nwp-cgn.de/img/game/profil/jett.png"
+      },
+      {
+        "id": 10,
+        "slug": "kayo",
+        "name": "KAY/O",
+        "sex": "male",
+        "klasse": "Initiator",
+        "info": "KAY/O ist eine Kriegsmaschine mit nur einem Zweck: die Neutralisierung von Radiants. Er kann gegnerische Fähigkeiten unterdrücken, behindert sie dadurch und verschafft sich und seinen Verbündeten so einen Vorteil.",
+        "thumb": "https://nwp-cgn.de/img/game/profil/kayo.png"
+      },
+      {
+        "id": 11,
+        "slug": "killjoy",
+        "name": "Killjoy",
+        "sex": "female",
+        "klasse": "Wächter",
+        "info": "Das Genie aus Deutschland. Killjoy sichert das Schlachtfeld mit Leichtigkeit – dank ihrem Arsenal von Erfindungen. Wenn der Schaden ihrer Ausrüstung die Gegner nicht aufhält, hilft die Schwächung ihrer Roboter dabei, ihnen den Rest zu geben.",
+        "thumb": "https://nwp-cgn.de/img/game/profil/killjoy.png"
+      },
+      {
+        "id": 12,
+        "slug": "neon",
+        "name": "Neon",
+        "sex": "female",
+        "klasse": "Duellant",
+        "info": "Die philippinische Agentin Neon prescht blitzschnell nach vorn und entlädt Blitze aus biolumineszentem Licht, das ihr Körper mit einer ebensolchen Geschwindigkeit erzeugt. Sie stürmt vorwärts, um unvorbereitete Gegner zu überraschen und erledigt sie dann mit Lichtgeschwindigkeit.",
+        "thumb": "https://nwp-cgn.de/img/game/profil/neon.png"
+      },
+      {
+        "id": 13,
+        "slug": "omen",
+        "name": "Omen",
+        "sex": "male",
+        "klasse": "Taktiker",
+        "info": "Omen ist das Phantom einer Erinnerung und jagt in den Schatten. Er kann Gegnern die Sicht nehmen und sich dann über die Karte teleportieren. Die Ungewissheit, wo er als Nächstes zuschlägt, macht seine Gegner wahnsinnig.",
+        "thumb": "https://nwp-cgn.de/img/game/profil/omen.png"
+      },
+      {
+        "id": 14,
+        "slug": "phoenix",
+        "name": "Phoenix",
+        "sex": "male",
+        "klasse": "Duellant",
+        "info": "Phoenix stammt aus Großbritannien und seine Starqualitäten kommen auch in seinen Kampffähigkeiten zur Geltung. Sein Publikum ist entweder geblendet oder Feuer und Flamme. Ob mit oder ohne Verstärkung – der Kampf beginnt, wenn er es sagt.",
+        "thumb": "https://nwp-cgn.de/img/game/profil/phoenix.png"
+      },
+      {
+        "id": 15,
+        "slug": "raze",
+        "name": "Raze",
+        "sex": "female",
+        "klasse": "Duellant",
+        "info": "Die explosive Raze bringt eine laute Persönlichkeit und dicke Knarren aus Brasilien mit. Durch ihre brachiale Spielweise ist sie besonders gut darin, Gegner aufzuscheuchen und beengte Räume mit einer großzügigen Portion „Bumm“ zu säubern.",
+        "thumb": "https://nwp-cgn.de/img/game/profil/raze.png"
+      },
+      {
+        "id": 16,
+        "slug": "reyna",
+        "name": "Reyna",
+        "sex": "female",
+        "klasse": "Duellant",
+        "info": "Reyna kommt aus dem Herzen Mexikos, brilliert in Kämpfen gegen einzelne Gegner und wird mit jedem Kill stärker. Ihr Können ist das einzige Limit für ihr Potenzial und sie hängt sehr von der erbrachten Leistung ab.",
+        "thumb": "https://nwp-cgn.de/img/game/profil/reyna.png"
+      },
+      {
+        "id": 17,
+        "slug": "sage",
+        "name": "Sage",
+        "sex": "female",
+        "klasse": "Wächter",
+        "info": "Sage ist Chinas Fels in der Brandung und garantiert Sicherheit für sich und ihr Team, wohin auch immer sie geht. Dank ihrer einzigartigen Fähigkeit, gefallene Verbündete wiederzuerwecken und aggressives Vorrücken zu verhindern, ist sie in einem Kampf das Auge des Sturms.",
+        "thumb": "https://nwp-cgn.de/img/game/profil/sage.png"
+      },
+      {
+        "id": 18,
+        "slug": "skye",
+        "name": "Skye",
+        "sex": "female",
+        "klasse": "Initiator",
+        "info": "Die Australierin Skye und ihr Rudel bahnen einen Weg durch gegnerisches Gebiet für das Team. Ihre Geschöpfe behindern den Gegner und durch ihre Heilkräfte kann ihrem Team nichts zustoßen, solange es an ihrer Seite ist.",
+        "thumb": "https://nwp-cgn.de/img/game/profil/skye.png"
+      },
+      {
+        "id": 19,
+        "slug": "sova",
+        "name": "Sova",
+        "sex": "male",
+        "klasse": "Initiator",
+        "info": "Sova stammt aus dem ewigen Winter der russischen Tundra und verfolgt, findet und eliminiert Gegner mit gnadenloser Effizienz und Präzision. Sein Spezialbogen und seine unglaublichen Späherfähigkeiten sorgen dafür, dass du zwar fliehen, aber nicht entkommen kannst.",
+        "thumb": "https://nwp-cgn.de/img/game/profil/sova.png"
+      },
+      {
+        "id": 20,
+        "slug": "viper",
+        "name": "Viper",
+        "sex": "female",
+        "klasse": "Taktiker",
+        "info": "Viper ist eine Chemikerin aus den USA und setzt eine Reihe von Geräten mit giftigen Chemikalien ein, um die Kontrolle über das Schlachtfeld zu behalten und dem Gegner die Sicht zu nehmen. Falls das Gift ihre Beute nicht zur Strecke bringt, erledigen ihre Psychospielchen das Übrige.",
+        "thumb": "https://nwp-cgn.de/img/game/profil/viper.png"
+      },
+      {
+        "id": 21,
+        "slug": "yoru",
+        "name": "Yoru",
+        "sex": "male",
+        "klasse": "Duellant",
+        "info": "Der Japaner Yoru reißt Löcher in die Realität, um unbeobachtet hinter die feindlichen Linien zu gelangen. Er setzt gleichermaßen auf Irreführung und Aggression und ist seinen Gegnern bereits einen Schritt voraus, bevor sie wissen, wie ihnen geschieht.",
+        "thumb": "https://nwp-cgn.de/img/game/profil/yoru.png"
+      }
+    ],
+    "maps": [
+      {
+        "id": 1,
+        "slug": "ascent",
+        "name": "Ascent",
+        "info": "Zwischen den zwei Arealen auf Ascent liegt ein offener Spielplatz für kleine Positions- und Zermürbungskämpfe. Beide Areale lassen sich durch tonnenschwere Bombenschutztüren sichern. Sobald sie zu sind, müsst ihr sie zerstören oder einen anderen Weg finden. Gebt so wenige Bereiche auf wie möglich.",
+        "thumb": "https://nwp-cgn.de/img/game/map/ascent.png"
+      },
+      {
+        "id": 2,
+        "slug": "bind",
+        "name": "Bind",
+        "info": "Zwei Areale. Keine Mitte. Ihr müsst euch für links oder rechts entscheiden. Welches Areal darf’s denn sein? Beide Seiten bieten Angreifern direkte Wege und zwei Teleporter (nur in eine Richtung), über die man gut flankieren kann.",
+        "thumb": "https://nwp-cgn.de/img/game/map/bind.png"
+      },
+      {
+        "id": 3,
+        "slug": "breeze",
+        "name": "Breeze",
+        "info": "Genieße den Ausblick über historische Ruinen und Höhlen in den Klippen dieses tropischen Paradieses. Aber bring Deckung mit. Die brauchst du für die offenen Bereiche und für Schüsse aus großer Distanz. Achte auf deine Flanke und du wirst dich fühlen wie beim Strandurlaub.",
+        "thumb": "https://nwp-cgn.de/img/game/map/breeze.png"
+      },
+      {
+        "id": 4,
+        "slug": "fracture",
+        "name": "Fracture",
+        "info": "Eine geheime Forschungseinrichtung, die durch ein fehlgeschlagenes Radianit-Experiment zweigeteilt wurde. Als Verteidiger habt ihr damit die Wahl: Trefft die Angreifer auf ihrem eigenen Boden oder macht die Schotten dicht, um den Angriff zu überstehen.",
+        "thumb": "https://nwp-cgn.de/img/game/map/fracture.png"
+      },
+      {
+        "id": 5,
+        "slug": "haven",
+        "name": "Haven",
+        "info": "Unterhalb eines vergessenen Klosters kommt es zwischen rivalisierenden Agenten zu Auseinandersetzungen, in denen es um die Kontrolle dreier Areale geht. Man muss zwar mehr Bereiche im Auge behalten, aber Verteidiger können die zusätzliche Fläche für aggressives Vorrücken nutzen.",
+        "thumb": "https://nwp-cgn.de/img/game/map/haven.png"
+      },
+      {
+        "id": 6,
+        "slug": "icebox",
+        "name": "Icebox",
+        "info": "Dein nächstes Schlachtfeld ist eine geheime Kingdom-Ausgrabungsstätte im ewigen Eis der Arktis. Die beiden Spike-Areale werden von Schnee und Metall geschützt, was etwas horizontale Finesse erfordert. Nutze die Seilrutsche, dann sieht dich kein Gegner kommen.",
+        "thumb": "https://nwp-cgn.de/img/game/map/icebox.png"
+      },
+      {
+        "id": 7,
+        "slug": "lotus",
+        "name": "Lotus",
+        "info": "Ein geheimnisvolles Bauwerk, das einen astralen Fokus beherbergt, strahlt eine uralte Macht aus. Große Steintüren bieten eine Vielzahl von Bewegungsmöglichkeiten und geben den Weg zu drei geheimnisvollen Orten frei.",
+        "thumb": "https://nwp-cgn.de/img/game/map/lotus.png"
+      },
+      {
+        "id": 8,
+        "slug": "pearl",
+        "name": "Pearl",
+        "info": "Auf dieser Karte mit zwei Arealen in einer lebendigen Unterwasserstadt machen Angreifer Druck auf die Verteidiger. Pearl ist eine mit der Umgebung spielende Karte ohne Mechaniken. Nimm auf unserer ersten Karte der Omega-Erde den Kampf durch eine kompakte Mitte oder die weitreichenden Flanken auf.",
+        "thumb": "https://nwp-cgn.de/img/game/map/pearl.png"
+      },
+      {
+        "id": 9,
+        "slug": "split",
+        "name": "Split",
+        "info": "Wenn ihr weit kommen wollt, müsst ihr nach oben. Zwei Areale werden durch einen erhöhten mittleren Bereich getrennt und Kletterseile sorgen für schnelle Wechsel. In beiden Arealen ragt ein Turm in die Höhe und ist für die Kontrolle immens wichtig. Schaut immer nach oben, bevor euch alles um die Ohren fliegt.",
+        "thumb": "https://nwp-cgn.de/img/game/map/split.png"
+      }
+    ],
+    "weapons": [
+      {
+        "id": 1,
+        "slug": "ares",
+        "name": "Ares",
+        "gattung": "Heavy",
+        "thumb": "https://nwp-cgn.de/img/game/weapon/ares.png"
+      },
+      {
+        "id": 2,
+        "slug": "bucky",
+        "name": "Bucky",
+        "gattung": "Shotgun",
+        "thumb": "https://nwp-cgn.de/img/game/weapon/bucky.png"
+      },
+      {
+        "id": 3,
+        "slug": "bulldog",
+        "name": "Bulldog",
+        "gattung": "Rifle",
+        "thumb": "https://nwp-cgn.de/img/game/weapon/bulldog.png"
+      },
+      {
+        "id": 4,
+        "slug": "classic",
+        "name": "Classic",
+        "gattung": "Sidearm",
+        "thumb": "https://nwp-cgn.de/img/game/weapon/classic.png"
+      },
+      {
+        "id": 5,
+        "slug": "frenzy",
+        "name": "Frenzy",
+        "gattung": "Sidearm",
+        "thumb": "https://nwp-cgn.de/img/game/weapon/frenzy.png"
+      },
+      {
+        "id": 6,
+        "slug": "ghost",
+        "name": "Ghost",
+        "gattung": "Sidearm",
+        "thumb": "https://nwp-cgn.de/img/game/weapon/ghost.png"
+      },
+      {
+        "id": 7,
+        "slug": "guardian",
+        "name": "Guardian",
+        "gattung": "Rifle",
+        "thumb": "https://nwp-cgn.de/img/game/weapon/guardian.png"
+      },
+      {
+        "id": 8,
+        "slug": "judge",
+        "name": "Judge",
+        "gattung": "Shotgun",
+        "thumb": "https://nwp-cgn.de/img/game/weapon/judge.png"
+      },
+      {
+        "id": 9,
+        "slug": "marshal",
+        "name": "Marshal",
+        "gattung": "Sniper",
+        "thumb": "https://nwp-cgn.de/img/game/weapon/marshal.png"
+      },
+      {
+        "id": 10,
+        "slug": "odin",
+        "name": "Odin",
+        "gattung": "Heavy",
+        "thumb": "https://nwp-cgn.de/img/game/weapon/odin.png"
+      },
+      {
+        "id": 11,
+        "slug": "operator",
+        "name": "Operator",
+        "gattung": "Sniper",
+        "thumb": "https://nwp-cgn.de/img/game/weapon/operator.png"
+      },
+      {
+        "id": 12,
+        "slug": "phantom",
+        "name": "Phantom",
+        "gattung": "Rifle",
+        "thumb": "https://nwp-cgn.de/img/game/weapon/phantom.png"
+      },
+      {
+        "id": 13,
+        "slug": "sheriff",
+        "name": "Sheriff",
+        "gattung": "Sidearm",
+        "thumb": "https://nwp-cgn.de/img/game/weapon/sheriff.png"
+      },
+      {
+        "id": 14,
+        "slug": "shorty",
+        "name": "Shorty",
+        "gattung": "Sidearm",
+        "thumb": "https://nwp-cgn.de/img/game/weapon/shorty.png"
+      },
+      {
+        "id": 15,
+        "slug": "spectre",
+        "name": "Spectre",
+        "gattung": "Smg",
+        "thumb": "https://nwp-cgn.de/img/game/weapon/spectre.png"
+      },
+      {
+        "id": 16,
+        "slug": "stinger",
+        "name": "Stinger",
+        "gattung": "Smg",
+        "thumb": "https://nwp-cgn.de/img/game/weapon/stinger.png"
+      },
+      {
+        "id": 17,
+        "slug": "vandal",
+        "name": "Vandal",
+        "gattung": "Rifle",
+        "thumb": "https://nwp-cgn.de/img/game/weapon/vandal.png"
+      }
+    ]
+  }

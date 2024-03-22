@@ -1,0 +1,133 @@
+{
+    "produkte": [
+        {
+            "id": 1,
+            "slug": "fembot",
+            "name": "Fembot",
+            "info": "Hochentwickelte weibliche Roboter mit menschenähnlichem Aussehen und Verhalten.",
+            "details": "KI-gesteuert interaktive Persönlichkeiten lebensechte Bewegungen und Stimmen.",
+            "imgUrl": "https://nwp-cgn.de/studio/upload/kat12/server/php/files/fembo1.jpeg",
+            "assets": {}
+        },
+        {
+            "id": 2,
+            "slug": "xdoll",
+            "name": "Sexrobots",
+            "info": "Roboter für sexuelle Interaktionen mit humanoidem Design und vielfältigen Funktionen.",
+            "details": "Anpassbare Einstellungen realistische Texturen Sensorik für taktile Reaktionen.",
+            "imgUrl": "https://nwp-cgn.de/studio/upload/kat12/server/php/files/fembo2.jpeg",
+            "assets": {}
+        },
+        {
+            "id": 3,
+            "slug": "rubdoll",
+            "name": "Rubberdolls",
+            "info": "Hochwertige Gummipuppen mit realistischem Erscheinungsbild und Haptik.",
+            "details": "Speziell geformtes Silikon individuell anpassbare Merkmale lebensechte Gewichtsverteilung.",
+            "imgUrl": "https://nwp-cgn.de/studio/upload/kat12/server/php/files/fembo3.jpeg",
+            "assets": {}
+        }
+    ],
+    "abteilungen": [
+        {
+            "id": 1,
+            "slug": "prod",
+            "name": "Produktion",
+            "info": "Unsere Produktionsabteilung ist führend in der Fertigung von hochwertigen FemBots, SexRobots und RubberDolls. Mit modernsten Fertigungstechnologien und einem erfahrenen Team stellen wir sicher, dass jedes Produkt höchsten Qualitätsstandards entspricht und den individuellen Bedürfnissen unserer Kunden gerecht wird.",
+            "imgUrl": "https://i.imgur.com/ktJA39v.png",
+            "assets": {}
+        },
+        {
+            "id": 2,
+            "slug": "fue",
+            "name": "Entwicklung",
+            "info": "In unserer Entwicklungsabteilung arbeiten wir kontinuierlich an der Innovation und Verbesserung unserer Produkte. Mit einem engagierten Team von Ingenieuren und Designern erforschen wir neue Technologien und Konzepte, um die Funktionalität, Benutzerfreundlichkeit und ästhetische Qualität unserer FemBots, SexRobots und RubberDolls zu optimieren und unseren Kunden stets das Beste zu bieten.",
+            "imgUrl": "https://i.imgur.com/8gfrUEp.png",
+            "assets": {}
+        },
+        {
+            "id": 3,
+            "slug": "mark",
+            "name": "Marketing",
+            "info": "Unser Marketingteam ist darauf spezialisiert, unsere Produkte erfolgreich auf dem Markt zu positionieren und die Bedürfnisse unserer Kunden zu verstehen und zu erfüllen. Durch gezielte Marktforschung, kreative Kampagnen und strategische Partnerschaften sorgen wir dafür, dass unsere FemBots, SexRobots und RubberDolls die Aufmerksamkeit erhalten, die sie verdienen, und dass unsere Kunden stets über die neuesten Entwicklungen informiert sind.",
+            "imgUrl": "https://i.imgur.com/UQPvuiv.png",
+            "assets": {}
+        }
+    ],
+    "rohstoffe": [
+        {
+            "id": 1,
+            "slug": "stahl",
+            "name": "Stahl",
+            "info": "Robust und langlebig geeignet für mechanische Teile und Komponenten die hoher Belastung ausgesetzt sind.",
+            "imgUrl": "https://i.imgur.com/73puq17.png",
+            "assets": {}
+        },
+        {
+            "id": 2,
+            "slug": "titan",
+            "name": "Titan",
+            "info": "Hohe Festigkeit und Korrosionsbeständigkeit ideal für hochbeanspruchte Teile in anspruchsvollen Umgebungen.",
+            "imgUrl": "https://i.imgur.com/73puq17.png",
+            "assets": {}
+        },
+        {
+            "id": 3,
+            "slug": "leiter",
+            "name": "Leiterplatten",
+            "info": "Träger für elektronische Bauteile wie Mikrocontroller Sensoren und Aktuatoren.",
+            "imgUrl": "https://i.imgur.com/73puq17.png",
+            "assets": {}
+        },
+        {
+            "id": 4,
+            "slug": "mikro",
+            "name": "Mikrocontroller und Mikroprozessoren",
+            "info": "Steuern und koordinieren die Funktionen des Roboters.",
+            "imgUrl": "https://i.imgur.com/73puq17.png",
+            "assets": {}
+        },
+        {
+            "id": 5,
+            "slug": "solar",
+            "name": "Solarzellen",
+            "info": "Wandeln Sonnenlicht in elektrische Energie um ideal für autonome oder energieeffiziente Robotersysteme.",
+            "imgUrl": "https://i.imgur.com/73puq17.png",
+            "assets": {}
+        },
+        {
+            "id": 6,
+            "slug": "spice",
+            "name": "Brennstoffzellen",
+            "info": "Erzeugen elektrische Energie durch chemische Reaktionen bieten eine langanhaltende und umweltfreundliche Stromversorgung.",
+            "imgUrl": "https://i.imgur.com/73puq17.png",
+            "assets": {}
+        }
+    ],
+    "arbeiter": [
+        {
+            "id": 1,
+            "slug": "maria",
+            "name": "Maria",
+            "info": "Eine Frau, die sich im ersten Ausbildungsstadium befindet, um Nonne zu werden. Sie lernt die Regeln und das spirituelle Leben des Ordens.",
+            "imgUrl": "https://i.imgur.com/qB45tRh.jpeg",
+            "assets": {}
+        },
+        {
+            "id": 2,
+            "slug": "johanna",
+            "name": "Johanna",
+            "info": "Eine Nonne, die die einfachen oder ewigen Gelübde abgelegt hat und in der Gemeinschaft lebt. Sie kann verschiedene Rollen innerhalb des Ordens haben.",
+            "imgUrl": "https://i.imgur.com/3jFMOGO.jpeg",
+            "assets": {}
+        },
+        {
+            "id": 3,
+            "slug": "lucia",
+            "name": "Lucia",
+            "info": "Die leitende Nonne eines Klosters oder einer Gemeinschaft. Die Oberin ist für die Führung und Organisation des Klosters verantwortlich.",
+            "imgUrl": "https://i.imgur.com/75mYj2y.jpeg",
+            "assets": {}
+        }
+    ]
+}

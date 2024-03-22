@@ -1,0 +1,173 @@
+[
+    {
+      "frage": "Was ist der vollständige Name des Charakters der oft als Butters bekannt ist?",
+      "choice": {
+        "a": "Butters Scotch",
+        "b": "Butters Marsh",
+        "c": "Butters Stotch"
+      },
+      "res": "c"
+    },
+    {
+      "frage": "Welcher Charakter trägt immer eine Mütze und spricht mit einer gedämpften Stimme?",
+      "choice": {
+        "a": "Kenny McCormick",
+        "b": "Timmy Burch",
+        "c": "Clyde Donovan"
+      },
+      "res": "a"
+    },
+    {
+      "frage": "Wie heißt die Bar in der die Erwachsenen in South Park oft trinken?",
+      "choice": {
+        "a": "Skeeters Saloon and Lounge",
+        "b": "Randy s Pub and Grill",
+        "c": "Skeeter s Bar and Cocktails"
+      },
+      "res": "c"
+    },
+    {
+      "frage": "Welches Instrument spielt Randy Marsh oft in der Serie?",
+      "choice": {
+        "a": "Schlagzeug",
+        "b": "Gitarre",
+        "c": "Klavier"
+      },
+      "res": "b"
+    },
+    {
+      "frage": "Wer ist der Lehrer der oft als Mr. Mkay bekannt ist?",
+      "choice": {
+        "a": "Mr. Garrison",
+        "b": "Mr. Mackey",
+        "c": "Mr. Marsh"
+      },
+      "res": "a"
+    },
+    {
+      "frage": "Welche Stadt steht in vielen Episoden feindlich gegenüber South Park?",
+      "choice": {
+        "a": "Beaverton",
+        "b": "Denver",
+        "c": "Springfield"
+      },
+      "res": "b"
+    },
+    {
+      "frage": "Wie heißt der mexikanische Wrestler der in einigen Episoden auftaucht und oft ¡Hola",
+      "choice": {
+        "a": " niños! sagt?",
+        "b": "El Pollo Loco",
+        "c": "El Diablo"
+      },
+      "res": "El Macho"
+    },
+    {
+      "frage": "Welche Figur betreibt den Laden City Wok?",
+      "choice": {
+        "a": "Tuong Lu Kim",
+        "b": "Tuong Lo Wang",
+        "c": "Tuong Ling"
+      },
+      "res": "a"
+    },
+    {
+      "frage": "Welches Tier hat Kyle Broflovski in der Episode Manbearpig angeblich gesehen?",
+      "choice": {
+        "a": "Man-Bear-Pig",
+        "b": "Bigfoot",
+        "c": "Chupacabra"
+      },
+      "res": "a"
+    },
+    {
+      "frage": "Welcher Charakter ist für seine Liebe zu käuflichem Sex und Crack-Kokain bekannt?",
+      "choice": {
+        "a": "Towelie",
+        "b": "Chef",
+        "c": "Big Gay Al"
+      },
+      "res": "a"
+    },
+    {
+      "frage": "In welchem fiktiven Land lebt Butters Stotch während seiner Abenteuer als Prinz?",
+      "choice": {
+        "a": "Imaginationland",
+        "b": "Wonderfultopia",
+        "c": "Fantasyrealm"
+      },
+      "res": "a"
+    },
+    {
+      "frage": "Wie lautet der Name von Cartmans Stofftier das zum Leben erweckt wird?",
+      "choice": {
+        "a": "Mr. Hankey",
+        "b": "Clyde Frog",
+        "c": "Polly Prissypants"
+      },
+      "res": "b"
+    },
+    {
+      "frage": "Welcher Charakter wird oft als The Coon bezeichnet?",
+      "choice": {
+        "a": "Craig Tucker",
+        "b": "Eric Cartman",
+        "c": "Kenny McCormick"
+      },
+      "res": "b"
+    },
+    {
+      "frage": "Was ist der Name von Stan Marshs Hund?",
+      "choice": {
+        "a": "Sparky",
+        "b": "Butterscotch",
+        "c": "Patches"
+      },
+      "res": "a"
+    },
+    {
+      "frage": "Welcher Charakter wird oft als Professor Chaos bekannt?",
+      "choice": {
+        "a": "Jimmy Valmer",
+        "b": "Timmy Burch",
+        "c": "Butters Stotch"
+      },
+      "res": "c"
+    },
+    {
+      "frage": "In welcher Folge wird ein Monster namens ManBearPig eingeführt?",
+      "choice": {
+        "a": "Trapped in the Closet",
+        "b": "The Succubus",
+        "c": "ManBearPig"
+      },
+      "res": "c"
+    },
+    {
+      "frage": "Wie lautet der vollständige Name des Charakters der als Tweek bekannt ist?",
+      "choice": {
+        "a": "Tweek Tweak",
+        "b": "Tweek Jones",
+        "c": "Tweek Marsh"
+      },
+      "res": "a"
+    },
+    {
+      "frage": "Welches virtuelle Spiel wird in der Episode Make Love Not Warcraft parodiert?",
+      "choice": {
+        "a": "World of Warcraft",
+        "b": "Guild Wars",
+        "c": "RuneScape"
+      },
+      "res": "a"
+    },
+    {
+      "frage": "Wie nennt sich die Band die von Stan Kyle Cartman und Kenny gegründet wurde?",
+      "choice": {
+        "a": "Fingerbang",
+        "b": "Limp Bizkit",
+        "c": "Faith plus 1"
+      },
+      "res": "aWelcher Charakter wird oft als The Mysterion bekannt?"
+    }
+  ]
