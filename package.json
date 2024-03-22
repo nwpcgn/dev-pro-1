@@ -1,0 +1,22 @@
+{
+  "name": "dev-pro-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nwpcgn/dev-pro-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nwpcgn/dev-pro-1/issues"
+  },
+  "homepage": "https://github.com/nwpcgn/dev-pro-1#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
