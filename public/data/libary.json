@@ -1,0 +1,191 @@
+{
+	"title": "Json Files",
+	"description": "Project Files",
+	"data": [
+		{
+			"id": 1,
+			"title": "Battle",
+			"description": "Battle.Json",
+			"path": "/data/",
+			"file": "battle.json",
+			"order": 0
+		},
+		{
+			"id": 2,
+			"title": "Battle Char",
+			"description": "Battlechar.Json",
+			"path": "/data/",
+			"file": "battleChar.json",
+			"order": 1
+		},
+		{
+			"id": 4,
+			"title": "Battle Obj",
+			"description": "Battle-Obj.Json",
+			"path": "/data/",
+			"file": "battle-obj.json",
+			"order": 0
+		},
+		{
+			"id": 5,
+			"title": "Blanka Set1",
+			"description": "Blanka_Set1.Json",
+			"path": "/data/",
+			"file": "blanka_set1.json",
+			"order": 0
+		},
+		{
+			"id": 6,
+			"title": "Character",
+			"description": "Character.Json",
+			"path": "/data/",
+			"file": "character.json",
+			"order": 1
+		},
+		{
+			"id": 7,
+			"title": "City",
+			"description": "City.Json",
+			"path": "/data/",
+			"file": "city.json",
+			"order": 1
+		},
+		{
+			"id": 8,
+			"title": "City Grouped",
+			"description": "City_Grouped.Json",
+			"path": "/data/",
+			"file": "city_grouped.json",
+			"order": 1
+		},
+		{
+			"id": 9,
+			"title": "Fembott",
+			"description": "Fembott.Json",
+			"path": "/data/",
+			"file": "femBott.json",
+			"order": 1
+		},
+		{
+			"id": 10,
+			"title": "Kloster",
+			"description": "Kloster.Json",
+			"path": "/data/",
+			"file": "kloster.json",
+			"order": 1
+		},
+		{
+			"id": 11,
+			"title": "Map1",
+			"description": "Map1.Json",
+			"path": "/data/",
+			"file": "map1.json",
+			"order": 2
+		},
+		{
+			"id": 12,
+			"title": "Rpg",
+			"description": "Rpg.Json",
+			"path": "/data/",
+			"file": "rpg.json",
+			"order": 2
+		},
+		{
+			"id": 13,
+			"title": "Settings",
+			"description": "Settings.Json",
+			"path": "/data/",
+			"file": "settings.json",
+			"order": 2
+		},
+		{
+			"id": 14,
+			"title": "Southpark Quiz",
+			"description": "Southparkquiz.Json",
+			"path": "/data/",
+			"file": "southParkQuiz.json",
+			"order": 1
+		},
+		{
+			"id": 15,
+			"title": "Stepper",
+			"description": "Stepper.Json",
+			"path": "/data/",
+			"file": "stepper.json",
+			"order": 1
+		},
+		{
+			"id": 16,
+			"title": "Streetfigther",
+			"description": "Streetfigther.Json",
+			"path": "/data/",
+			"file": "streetfigther.json",
+			"order": 2
+		},
+		{
+			"id": 17,
+			"title": "Themes",
+			"description": "Themes.Json",
+			"path": "/data/",
+			"file": "themes.json",
+			"order": 1
+		}
+	],
+	"schema": {
+		"type": "array",
+		"items": {
+			"type": "object",
+			"properties": {
+				"id": {
+					"type": "integer"
+				},
+				"title": {
+					"type": "string"
+				},
+				"description": {
+					"type": "string"
+				},
+				"path": {
+					"type": "string"
+				},
+				"file": {
+					"type": "string"
+				},
+				"order": {
+					"type": "integer"
+				}
+			},
+			"required": [ "id", "title", "description", "path", "file", "order" ]
+		}
+	},
+	"startval": [
+		{
+			"id": 1,
+			"title": "Battle",
+			"description": "Battle.Json",
+			"path": "/data/",
+			"file": "battle.json",
+			"order": 0
+		},
+		{
+			"id": 2,
+			"title": "Battle Char",
+			"description": "Battlechar.Json",
+			"path": "/data/",
+			"file": "battleChar.json",
+			"order": 1
+		},
+		{
+			"id": 4,
+			"title": "Battle Obj",
+			"description": "Battle-Obj.Json",
+			"path": "/data/",
+			"file": "battle-obj.json",
+			"order": 0
+		}
+	],
+	"config": {
+		"theme": "bootstrap5",
+		"iconlib": "fontawesome4"
+	}
+}

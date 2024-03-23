@@ -1,0 +1,1199 @@
+[
+	{
+		"id": 1,
+		"svg": "road-horizontal",
+		"transform": "translate(298 -46)",
+		"tx": 298,
+		"ty": -46,
+		"hidden": false,
+		"gruppe": "roadN"
+	},
+	{
+		"id": 2,
+		"svg": "road-vertical",
+		"transform": "translate(922 -45)",
+		"tx": 922,
+		"ty": -45,
+		"hidden": false,
+		"gruppe": "roadN"
+	},
+	{
+		"id": 3,
+		"svg": "road-horizontal",
+		"transform": "translate(777 -31)",
+		"tx": 777,
+		"ty": -31,
+		"hidden": false,
+		"gruppe": "roadN"
+	},
+	{
+		"id": 4,
+		"svg": "road-vertical",
+		"transform": "translate(571 -29)",
+		"tx": 571,
+		"ty": -29,
+		"hidden": false,
+		"gruppe": "roadN"
+	},
+	{
+		"id": 5,
+		"svg": "road-horizontal",
+		"transform": "translate(214 2)",
+		"tx": 214,
+		"ty": 2,
+		"hidden": false,
+		"gruppe": "roadN"
+	},
+	{
+		"id": 6,
+		"svg": "road-vertical",
+		"transform": "translate(1006 3)",
+		"tx": 1006,
+		"ty": 3,
+		"hidden": false,
+		"gruppe": "roadN"
+	},
+	{
+		"id": 7,
+		"svg": "road-t-junction-4",
+		"transform": "Translate(656 18)",
+		"tx": 656,
+		"ty": 18,
+		"hidden": false,
+		"gruppe": "roadN"
+	},
+	{
+		"id": 8,
+		"svg": "road-vertical",
+		"transform": "translate(1088 50)",
+		"tx": 1088,
+		"ty": 50,
+		"hidden": false,
+		"gruppe": "roadN"
+	},
+	{
+		"id": 9,
+		"svg": "road-L1",
+		"transform": "translate(130 50)",
+		"tx": 130,
+		"ty": 50,
+		"hidden": false,
+		"gruppe": "roadN"
+	},
+	{
+		"id": 10,
+		"svg": "road-vertical",
+		"transform": "translate(777 89)",
+		"tx": 777,
+		"ty": 89,
+		"hidden": false,
+		"gruppe": "roadN"
+	},
+	{
+		"id": 11,
+		"svg": "road-t-junction-3",
+		"transform": "translate(1172 98)",
+		"tx": 1172,
+		"ty": 98,
+		"hidden": false,
+		"gruppe": "roadN"
+	},
+	{
+		"id": 12,
+		"svg": "road-vertical",
+		"transform": "translate(212 121)",
+		"tx": 212,
+		"ty": 121,
+		"hidden": false,
+		"gruppe": "roadN"
+	},
+	{
+		"id": 13,
+		"svg": "road-vertical",
+		"transform": "translate(858 135)",
+		"tx": 858,
+		"ty": 135,
+		"hidden": false,
+		"gruppe": "roadN"
+	},
+	{
+		"id": 14,
+		"svg": "road-horizontal",
+		"transform": "translate(1091 168)",
+		"tx": 1091,
+		"ty": 168,
+		"hidden": false,
+		"gruppe": "roadN"
+	},
+	{
+		"id": 15,
+		"svg": "road-vertical",
+		"transform": "translate(296 169)",
+		"tx": 296,
+		"ty": 169,
+		"hidden": false,
+		"gruppe": "roadN"
+	},
+	{
+		"id": 16,
+		"svg": "road-vertical",
+		"transform": "translate(1298 170)",
+		"tx": 1298,
+		"ty": 170,
+		"hidden": false,
+		"gruppe": "roadN"
+	},
+	{
+		"id": 17,
+		"svg": "road-horizontal",
+		"transform": "translate(1007 216)",
+		"tx": 1007,
+		"ty": 216,
+		"hidden": false,
+		"gruppe": "roadN"
+	},
+	{
+		"id": 18,
+		"svg": "road-vertical",
+		"transform": "translate(378 216)",
+		"tx": 378,
+		"ty": 216,
+		"hidden": false,
+		"gruppe": "roadN"
+	},
+	{
+		"id": 19,
+		"svg": "road-t-junction-3",
+		"transform": "translate(1382 218)",
+		"tx": 1382,
+		"ty": 218,
+		"hidden": false,
+		"gruppe": "roadW"
+	},
+	{
+		"id": 20,
+		"svg": "road-horizontal",
+		"transform": "translate(923 264)",
+		"tx": 923,
+		"ty": 264,
+		"hidden": false,
+		"gruppe": "roadW"
+	},
+	{
+		"id": 21,
+		"svg": "road-L2",
+		"transform": "translate(672 264)",
+		"tx": 672,
+		"ty": 264,
+		"hidden": false,
+		"gruppe": "roadW"
+	},
+	{
+		"id": 22,
+		"svg": "road-vertical",
+		"transform": "translate(462 264)",
+		"tx": 462,
+		"ty": 264,
+		"hidden": false,
+		"gruppe": "roadW"
+	},
+	{
+		"id": 23,
+		"svg": "road-vertical",
+		"transform": "translate(1508 290)",
+		"tx": 1508,
+		"ty": 290,
+		"hidden": false,
+		"gruppe": "roadW"
+	},
+	{
+		"id": 24,
+		"svg": "road-horizontal",
+		"transform": "translate(1298 290)",
+		"tx": 1298,
+		"ty": 290,
+		"hidden": false,
+		"gruppe": "roadW"
+	},
+	{
+		"id": 25,
+		"svg": "road-t-junction-4",
+		"transform": "translate(798 312)",
+		"tx": 798,
+		"ty": 312,
+		"hidden": false,
+		"gruppe": "roadW"
+	},
+	{
+		"id": 26,
+		"svg": "road-t-junction-2",
+		"transform": "translate(546 312)",
+		"tx": 546,
+		"ty": 312,
+		"hidden": false,
+		"gruppe": "roadW"
+	},
+	{
+		"id": 27,
+		"svg": "road-vertical",
+		"transform": "translate(1592 338)",
+		"tx": 1592,
+		"ty": 338,
+		"hidden": false,
+		"gruppe": "roadW"
+	},
+	{
+		"id": 28,
+		"svg": "road-L1",
+		"transform": "translate(1214 338)",
+		"tx": 1214,
+		"ty": 338,
+		"hidden": false,
+		"gruppe": "roadW"
+	},
+	{
+		"id": 29,
+		"svg": "road-L4",
+		"transform": "translate(924 384)",
+		"tx": 924,
+		"ty": 384,
+		"hidden": false,
+		"gruppe": "roadW"
+	},
+	{
+		"id": 30,
+		"svg": "road-L1",
+		"transform": "translate(462 384)",
+		"tx": 462,
+		"ty": 384,
+		"hidden": false,
+		"gruppe": "roadW"
+	},
+	{
+		"id": 31,
+		"svg": "road-vertical",
+		"transform": "translate(1297 410)",
+		"tx": 1297,
+		"ty": 410,
+		"hidden": false,
+		"gruppe": "roadW"
+	},
+	{
+		"id": 32,
+		"svg": "road-t-junction-1",
+		"transform": "translate(798 456)",
+		"tx": 798,
+		"ty": 456,
+		"hidden": false,
+		"gruppe": "roadW"
+	},
+	{
+		"id": 33,
+		"svg": "road-t-junction-3",
+		"transform": "translate(546 456)",
+		"tx": 546,
+		"ty": 456,
+		"hidden": false,
+		"gruppe": "roadW"
+	},
+	{
+		"id": 34,
+		"svg": "road-vertical",
+		"transform": "translate(1381 458)",
+		"tx": 1381,
+		"ty": 458,
+		"hidden": false,
+		"gruppe": "roadW"
+	},
+	{
+		"id": 35,
+		"svg": "road-vertical",
+		"transform": "translate(1465 506)",
+		"tx": 1465,
+		"ty": 506,
+		"hidden": false,
+		"gruppe": "roadW"
+	},
+	{
+		"id": 36,
+		"svg": "road-vertical",
+		"transform": "translate(924 528)",
+		"tx": 924,
+		"ty": 528,
+		"hidden": false,
+		"gruppe": "roadW"
+	},
+	{
+		"id": 37,
+		"svg": "road-L3",
+		"transform": "translate(672 528)",
+		"tx": 672,
+		"ty": 528,
+		"hidden": false,
+		"gruppe": "roadW"
+	},
+	{
+		"id": 38,
+		"svg": "road-horizontal",
+		"transform": "translate(463 528)",
+		"tx": 463,
+		"ty": 528,
+		"hidden": false,
+		"gruppe": "roadW"
+	},
+	{
+		"id": 39,
+		"svg": "road-vertical",
+		"transform": "translate(1549 554)",
+		"tx": 1549,
+		"ty": 554,
+		"hidden": false,
+		"gruppe": "roadS"
+	},
+	{
+		"id": 40,
+		"svg": "road-vertical",
+		"transform": "translate(1008 576)",
+		"tx": 1008,
+		"ty": 576,
+		"hidden": false,
+		"gruppe": "roadS"
+	},
+	{
+		"id": 41,
+		"svg": "road-horizontal",
+		"transform": "translate(379 576)",
+		"tx": 379,
+		"ty": 576,
+		"hidden": false,
+		"gruppe": "roadS"
+	},
+	{
+		"id": 42,
+		"svg": "road-vertical",
+		"transform": "translate(1092 624)",
+		"tx": 1092,
+		"ty": 624,
+		"hidden": false,
+		"gruppe": "roadS"
+	},
+	{
+		"id": 43,
+		"svg": "road-horizontal",
+		"transform": "translate(295 624)",
+		"tx": 295,
+		"ty": 624,
+		"hidden": false,
+		"gruppe": "roadS"
+	},
+	{
+		"id": 44,
+		"svg": "road-vertical",
+		"transform": "translate(1176 672)",
+		"tx": 1176,
+		"ty": 672,
+		"hidden": false,
+		"gruppe": "roadS"
+	},
+	{
+		"id": 45,
+		"svg": "road-L1",
+		"transform": "translate(211 672)",
+		"tx": 211,
+		"ty": 672,
+		"hidden": false,
+		"gruppe": "roadS"
+	},
+	{
+		"id": 46,
+		"svg": "road-horizontal",
+		"transform": "translate(1550 674)",
+		"tx": 1550,
+		"ty": 674,
+		"hidden": false,
+		"gruppe": "roadS"
+	},
+	{
+		"id": 47,
+		"svg": "road-vertical",
+		"transform": "translate(1260 720)",
+		"tx": 1260,
+		"ty": 720,
+		"hidden": false,
+		"gruppe": "roadS"
+	},
+	{
+		"id": 48,
+		"svg": "road-horizontal",
+		"transform": "translate(1467 722)",
+		"tx": 1467,
+		"ty": 722,
+		"hidden": false,
+		"gruppe": "roadS"
+	},
+	{
+		"id": 49,
+		"svg": "road-vertical",
+		"transform": "translate(295 744)",
+		"tx": 295,
+		"ty": 744,
+		"hidden": false,
+		"gruppe": "roadS"
+	},
+	{
+		"id": 50,
+		"svg": "road-t-junction-2",
+		"transform": "translate(1344 768)",
+		"tx": 1344,
+		"ty": 768,
+		"hidden": false,
+		"gruppe": "roadS"
+	},
+	{
+		"id": 51,
+		"svg": "road-vertical",
+		"transform": "translate(379 792)",
+		"tx": 379,
+		"ty": 792,
+		"hidden": false,
+		"gruppe": "roadS"
+	},
+	{
+		"id": 52,
+		"svg": "road-horizontal",
+		"transform": "translate(1260 840)",
+		"tx": 1260,
+		"ty": 840,
+		"hidden": false,
+		"gruppe": "roadS"
+	},
+	{
+		"id": 53,
+		"svg": "road-vertical",
+		"transform": "translate(463 840)",
+		"tx": 463,
+		"ty": 840,
+		"hidden": false,
+		"gruppe": "roadS"
+	},
+	{
+		"id": 54,
+		"svg": "road-horizontal",
+		"transform": "translate(1176 888)",
+		"tx": 1176,
+		"ty": 888,
+		"hidden": false,
+		"gruppe": "roadS"
+	},
+	{
+		"id": 55,
+		"svg": "road-vertical",
+		"transform": "Translate(547 888)",
+		"tx": 547,
+		"ty": 888,
+		"hidden": false,
+		"gruppe": "roadS"
+	},
+	{
+		"id": 56,
+		"svg": "road-horizontal",
+		"transform": "translate(1096 934)",
+		"tx": 1096,
+		"ty": 934,
+		"hidden": false,
+		"gruppe": "roadS"
+	},
+	{
+		"id": 57,
+		"svg": "road-vertical",
+		"transform": "translate(631 936)",
+		"tx": 631,
+		"ty": 936,
+		"hidden": false,
+		"gruppe": "roadS"
+	},
+	{
+		"id": 58,
+		"svg": "house-big-2",
+		"transform": "translate(455 -83)",
+		"tx": 455,
+		"ty": -83,
+		"hidden": false,
+		"gruppe": "ark"
+	},
+	{
+		"id": 59,
+		"svg": "house-big-1",
+		"transform": "translate(691 -77)",
+		"tx": 691,
+		"ty": -77,
+		"hidden": false,
+		"gruppe": "ark"
+	},
+	{
+		"id": 60,
+		"svg": "house-big-2",
+		"transform": "translate(877 -61)",
+		"tx": 877,
+		"ty": -61,
+		"hidden": false,
+		"gruppe": "ark"
+	},
+	{
+		"id": 61,
+		"svg": "house-big-2",
+		"transform": "translate(1079 -57)",
+		"tx": 1079,
+		"ty": -57,
+		"hidden": false,
+		"gruppe": "ark"
+	},
+	{
+		"id": 62,
+		"svg": "house-big-2",
+		"transform": "translate(568 -24)",
+		"tx": 568,
+		"ty": -24,
+		"hidden": false,
+		"gruppe": "ark"
+	},
+	{
+		"id": 63,
+		"svg": "house-big-2",
+		"transform": "translate(772 -14)",
+		"tx": 772,
+		"ty": -14,
+		"hidden": false,
+		"gruppe": "ark"
+	},
+	{
+		"id": 64,
+		"svg": "house-big-2",
+		"transform": "translate(984 -2)",
+		"tx": 984,
+		"ty": -2,
+		"hidden": false,
+		"gruppe": "ark"
+	},
+	{
+		"id": 65,
+		"svg": "house-big-2",
+		"transform": "translate(1205 16)",
+		"tx": 1205,
+		"ty": 16,
+		"hidden": false,
+		"gruppe": "ark"
+	},
+	{
+		"id": 66,
+		"svg": "house-big-2",
+		"transform": "translate(678 59)",
+		"tx": 678,
+		"ty": 59,
+		"hidden": false,
+		"gruppe": "ark"
+	},
+	{
+		"id": 67,
+		"svg": "house-big-2",
+		"transform": "translate(902 60)",
+		"tx": 902,
+		"ty": 60,
+		"hidden": false,
+		"gruppe": "ark"
+	},
+	{
+		"id": 68,
+		"svg": "house-big-1",
+		"transform": "translate(1089 68)",
+		"tx": 1089,
+		"ty": 68,
+		"hidden": false,
+		"gruppe": "ark"
+	},
+	{
+		"id": 69,
+		"svg": "house-big-1",
+		"transform": "translate(1003 117)",
+		"tx": 1003,
+		"ty": 117,
+		"hidden": false,
+		"gruppe": "ark"
+	},
+	{
+		"id": 70,
+		"svg": "house-big-2",
+		"transform": "translate(802 126)",
+		"tx": 802,
+		"ty": 126,
+		"hidden": false,
+		"gruppe": "ark"
+	},
+	{
+		"id": 71,
+		"svg": "house-big-1",
+		"transform": "translate(912 169)",
+		"tx": 912,
+		"ty": 169,
+		"hidden": false,
+		"gruppe": "ark"
+	},
+	{
+		"id": 72,
+		"svg": "shop-1",
+		"transform": "translate(244 19)",
+		"tx": 244,
+		"ty": 19,
+		"hidden": false,
+		"gruppe": "coma"
+	},
+	{
+		"id": 73,
+		"svg": "shop-1",
+		"transform": "translate(132 86)",
+		"tx": 132,
+		"ty": 86,
+		"hidden": false,
+		"gruppe": "coma"
+	},
+	{
+		"id": 74,
+		"svg": "shop-1",
+		"transform": "translate(374 94)",
+		"tx": 374,
+		"ty": 94,
+		"hidden": false,
+		"gruppe": "coma"
+	},
+	{
+		"id": 75,
+		"svg": "shop-1",
+		"transform": "translate(499 164)",
+		"tx": 499,
+		"ty": 164,
+		"hidden": false,
+		"gruppe": "coma"
+	},
+	{
+		"id": 76,
+		"svg": "shop-1",
+		"transform": "translate(268 165)",
+		"tx": 268,
+		"ty": 165,
+		"hidden": false,
+		"gruppe": "coma"
+	},
+	{
+		"id": 77,
+		"svg": "shop-2",
+		"transform": "translate(398 226)",
+		"tx": 398,
+		"ty": 226,
+		"hidden": false,
+		"gruppe": "coma"
+	},
+	{
+		"id": 78,
+		"svg": "house-small-2",
+		"transform": "translate(1329 87)",
+		"tx": 1329,
+		"ty": 87,
+		"hidden": false,
+		"gruppe": "denio"
+	},
+	{
+		"id": 79,
+		"svg": "house-small-1",
+		"transform": "translate(1208 119)",
+		"tx": 1208,
+		"ty": 119,
+		"hidden": false,
+		"gruppe": "denio"
+	},
+	{
+		"id": 80,
+		"svg": "house-small-2",
+		"transform": "translate(1423 140)",
+		"tx": 1423,
+		"ty": 140,
+		"hidden": false,
+		"gruppe": "denio"
+	},
+	{
+		"id": 81,
+		"svg": "house-small-1",
+		"transform": "translate(1124 167)",
+		"tx": 1124,
+		"ty": 167,
+		"hidden": false,
+		"gruppe": "denio"
+	},
+	{
+		"id": 82,
+		"svg": "house-small-1",
+		"transform": "translate(1317 187)",
+		"tx": 1317,
+		"ty": 187,
+		"hidden": false,
+		"gruppe": "denio"
+	},
+	{
+		"id": 83,
+		"svg": "house-small-2",
+		"transform": "translate(1513 194)",
+		"tx": 1513,
+		"ty": 194,
+		"hidden": false,
+		"gruppe": "denio"
+	},
+	{
+		"id": 84,
+		"svg": "house-small-1",
+		"transform": "translate(1041 219)",
+		"tx": 1041,
+		"ty": 219,
+		"hidden": false,
+		"gruppe": "denio"
+	},
+	{
+		"id": 85,
+		"svg": "house-small-1",
+		"transform": "translate(1244 229)",
+		"tx": 1244,
+		"ty": 229,
+		"hidden": false,
+		"gruppe": "denio"
+	},
+	{
+		"id": 86,
+		"svg": "house-small-1",
+		"transform": "translate(1411 240)",
+		"tx": 1411,
+		"ty": 240,
+		"hidden": false,
+		"gruppe": "denio"
+	},
+	{
+		"id": 87,
+		"svg": "house-small-1",
+		"transform": "translate(1162 275)",
+		"tx": 1162,
+		"ty": 275,
+		"hidden": false,
+		"gruppe": "denio"
+	},
+	{
+		"id": 88,
+		"svg": "house-small-2",
+		"transform": "translate(1499 296)",
+		"tx": 1499,
+		"ty": 296,
+		"hidden": false,
+		"gruppe": "denio"
+	},
+	{
+		"id": 89,
+		"svg": "house-small-1",
+		"transform": "translate(1298 305)",
+		"tx": 1298,
+		"ty": 305,
+		"hidden": false,
+		"gruppe": "denio"
+	},
+	{
+		"id": 90,
+		"svg": "house-small-2",
+		"transform": "translate(1169 347)",
+		"tx": 1169,
+		"ty": 347,
+		"hidden": false,
+		"gruppe": "denio"
+	},
+	{
+		"id": 91,
+		"svg": "house-small-2",
+		"transform": "translate(1389 362)",
+		"tx": 1389,
+		"ty": 362,
+		"hidden": false,
+		"gruppe": "denio"
+	},
+	{
+		"id": 92,
+		"svg": "house-small-2",
+		"transform": "translate(1249 393)",
+		"tx": 1249,
+		"ty": 393,
+		"hidden": false,
+		"gruppe": "denio"
+	},
+	{
+		"id": 93,
+		"svg": "house-small-2",
+		"transform": "translate(1485 418)",
+		"tx": 1485,
+		"ty": 418,
+		"hidden": false,
+		"gruppe": "denio"
+	},
+	{
+		"id": 94,
+		"svg": "house-small-2",
+		"transform": "translate(1331 439)",
+		"tx": 1331,
+		"ty": 439,
+		"hidden": false,
+		"gruppe": "denio"
+	},
+	{
+		"id": 95,
+		"svg": "house-small-2",
+		"transform": "translate(1413 487)",
+		"tx": 1413,
+		"ty": 487,
+		"hidden": false,
+		"gruppe": "denio"
+	},
+	{
+		"id": 96,
+		"svg": "house-small-2",
+		"transform": "translate(1499 544)",
+		"tx": 1499,
+		"ty": 544,
+		"hidden": false,
+		"gruppe": "denio"
+	},
+	{
+		"id": 97,
+		"svg": "buiding-tall-2",
+		"transform": "translate(690 101)",
+		"tx": 690,
+		"ty": 101,
+		"hidden": false,
+		"gruppe": "ebro"
+	},
+	{
+		"id": 98,
+		"svg": "building-tall-1",
+		"transform": "translate(834 174)",
+		"tx": 834,
+		"ty": 174,
+		"hidden": false,
+		"gruppe": "ebro"
+	},
+	{
+		"id": 99,
+		"svg": "building-tall-1",
+		"transform": "translate(558 178)",
+		"tx": 558,
+		"ty": 178,
+		"hidden": false,
+		"gruppe": "ebro"
+	},
+	{
+		"id": 100,
+		"svg": "buiding-tall-2",
+		"transform": "translate(688 255)",
+		"tx": 688,
+		"ty": 255,
+		"hidden": false,
+		"gruppe": "ebro"
+	},
+	{
+		"id": 101,
+		"svg": "building-tall-1",
+		"transform": "translate(980 276)",
+		"tx": 980,
+		"ty": 276,
+		"hidden": false,
+		"gruppe": "ebro"
+	},
+	{
+		"id": 102,
+		"svg": "building-tall-1",
+		"transform": "translate(855 342)",
+		"tx": 855,
+		"ty": 342,
+		"hidden": false,
+		"gruppe": "ebro"
+	},
+	{
+		"id": 103,
+		"svg": "forest",
+		"transform": "translate(1360 -58)",
+		"tx": 1360,
+		"ty": -58,
+		"hidden": false,
+		"gruppe": "forestN"
+	},
+	{
+		"id": 104,
+		"svg": "forest",
+		"transform": "translate(1507 9)",
+		"tx": 1507,
+		"ty": 9,
+		"hidden": false,
+		"gruppe": "forestN"
+	},
+	{
+		"id": 105,
+		"svg": "forest",
+		"transform": "translate(114 240)",
+		"tx": 114,
+		"ty": 240,
+		"hidden": false,
+		"gruppe": "forestN"
+	},
+	{
+		"id": 106,
+		"svg": "forest",
+		"transform": "translate(249 276)",
+		"tx": 249,
+		"ty": 276,
+		"hidden": false,
+		"gruppe": "forestN"
+	},
+	{
+		"id": 107,
+		"svg": "forest",
+		"transform": "translate(184 368)",
+		"tx": 184,
+		"ty": 368,
+		"hidden": false,
+		"gruppe": "forestN"
+	},
+	{
+		"id": 108,
+		"svg": "forest",
+		"transform": "translate(567 569)",
+		"tx": 567,
+		"ty": 569,
+		"hidden": false,
+		"gruppe": "forestW"
+	},
+	{
+		"id": 109,
+		"svg": "forest",
+		"transform": "translate(1525 739)",
+		"tx": 1525,
+		"ty": 739,
+		"hidden": false,
+		"gruppe": "forestS"
+	},
+	{
+		"id": 110,
+		"svg": "forest",
+		"transform": "translate(1406 769)",
+		"tx": 1406,
+		"ty": 769,
+		"hidden": false,
+		"gruppe": "forestS"
+	},
+	{
+		"id": 111,
+		"svg": "forest",
+		"transform": "translate(61 772)",
+		"tx": 61,
+		"ty": 772,
+		"hidden": false,
+		"gruppe": "forestW"
+	},
+	{
+		"id": 112,
+		"svg": "forest",
+		"transform": "translate(904 861)",
+		"tx": 904,
+		"ty": 861,
+		"hidden": false,
+		"gruppe": "forestS"
+	},
+	{
+		"id": 113,
+		"svg": "forest",
+		"transform": "translate(1304 864)",
+		"tx": 1304,
+		"ty": 864,
+		"hidden": false,
+		"gruppe": "forestS"
+	},
+	{
+		"id": 114,
+		"svg": "forest",
+		"transform": "Translate(522 883)",
+		"tx": 522,
+		"ty": 883,
+		"hidden": false,
+		"gruppe": "forestS"
+	},
+	{
+		"id": 115,
+		"svg": "forest",
+		"transform": "translate(1445 886)",
+		"tx": 1445,
+		"ty": 886,
+		"hidden": false,
+		"gruppe": "forestS"
+	},
+	{
+		"id": 116,
+		"svg": "building-mid-1",
+		"transform": "translate(441 377)",
+		"tx": 441,
+		"ty": 377,
+		"hidden": false,
+		"gruppe": "gilgo"
+	},
+	{
+		"id": 117,
+		"svg": "building-mid-1",
+		"transform": "translate(560 439)",
+		"tx": 560,
+		"ty": 439,
+		"hidden": false,
+		"gruppe": "gilgo"
+	},
+	{
+		"id": 118,
+		"svg": "building-mid-2",
+		"transform": "translate(330 459)",
+		"tx": 330,
+		"ty": 459,
+		"hidden": false,
+		"gruppe": "gilgo"
+	},
+	{
+		"id": 119,
+		"svg": "building-mid-1",
+		"transform": "translate(1096 468)",
+		"tx": 1096,
+		"ty": 468,
+		"hidden": false,
+		"gruppe": "gilgo"
+	},
+	{
+		"id": 120,
+		"svg": "building-mid-2",
+		"transform": "translate(436 506)",
+		"tx": 436,
+		"ty": 506,
+		"hidden": false,
+		"gruppe": "gilgo"
+	},
+	{
+		"id": 121,
+		"svg": "building-mid-2",
+		"transform": "translate(195 537)",
+		"tx": 195,
+		"ty": 537,
+		"hidden": false,
+		"gruppe": "gilgo"
+	},
+	{
+		"id": 122,
+		"svg": "building-mid-1",
+		"transform": "translate(1233 546)",
+		"tx": 1233,
+		"ty": 546,
+		"hidden": false,
+		"gruppe": "gilgo"
+	},
+	{
+		"id": 123,
+		"svg": "building-mid-2",
+		"transform": "translate(295 586)",
+		"tx": 295,
+		"ty": 586,
+		"hidden": false,
+		"gruppe": "gilgo"
+	},
+	{
+		"id": 124,
+		"svg": "building-mid-1",
+		"transform": "translate(1127 613)",
+		"tx": 1127,
+		"ty": 613,
+		"hidden": false,
+		"gruppe": "gilgo"
+	},
+	{
+		"id": 125,
+		"svg": "building-mid-1",
+		"transform": "translate(400 645)",
+		"tx": 400,
+		"ty": 645,
+		"hidden": false,
+		"gruppe": "gilgo"
+	},
+	{
+		"id": 126,
+		"svg": "building-mid-1",
+		"transform": "translate(175 645)",
+		"tx": 175,
+		"ty": 645,
+		"hidden": false,
+		"gruppe": "gilgo"
+	},
+	{
+		"id": 127,
+		"svg": "building-mid-1",
+		"transform": "translate(519 714)",
+		"tx": 519,
+		"ty": 714,
+		"hidden": false,
+		"gruppe": "gilgo"
+	},
+	{
+		"id": 128,
+		"svg": "building-mid-1",
+		"transform": "translate(285 720)",
+		"tx": 285,
+		"ty": 720,
+		"hidden": false,
+		"gruppe": "gilgo"
+	},
+	{
+		"id": 129,
+		"svg": "building-mid-1",
+		"transform": "translate(409 786)",
+		"tx": 409,
+		"ty": 786,
+		"hidden": false,
+		"gruppe": "gilgo"
+	},
+	{
+		"id": 130,
+		"svg": "shop-2",
+		"transform": "translate(1361 648)",
+		"tx": 1361,
+		"ty": 648,
+		"hidden": false,
+		"gruppe": "hiltop"
+	},
+	{
+		"id": 131,
+		"svg": "shop-3",
+		"transform": "translate(1269 748)",
+		"tx": 1269,
+		"ty": 748,
+		"hidden": false,
+		"gruppe": "hiltop"
+	},
+	{
+		"id": 132,
+		"svg": "shop-3",
+		"transform": "translate(1171 804)",
+		"tx": 1171,
+		"ty": 804,
+		"hidden": false,
+		"gruppe": "hiltop"
+	},
+	{
+		"id": 133,
+		"svg": "shop-3",
+		"transform": "translate(1059 868)",
+		"tx": 1059,
+		"ty": 868,
+		"hidden": false,
+		"gruppe": "hiltop"
+	}
+]

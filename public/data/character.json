@@ -1,0 +1,178 @@
+[
+	{
+		"id": 6,
+		"slug": "astra",
+		"name": "Astra",
+		"klasse": "Taktiker",
+		"description": "Die ghanaische Agentin Astra nutzt die Energien des Kosmos, um das Schlachtfeld nach ihren Vorlieben zu verändern. Durch ihre Astralform und ihr Talent für strategische Weitsicht ist sie dem nächsten Zug ihrer Gegner immer Äonen voraus.",
+		"picture": "https://nwp-cgn.de/img/game/profil/astra.png",
+		"personUrl": "https://nwp-cgn.de/img/game/game/astra.png",
+		"characterUrl": "https://nwp-cgn.de/img/game/art/astra.png",
+		"daten": {}
+	},
+	{
+		"id": 7,
+		"slug": "breach",
+		"name": "Breach",
+		"klasse": "Initiator",
+		"description": "Breach, der bionisch augmentierte Schwede, verursacht gezielt mächtige kinetische Explosionen, die ohne Rücksicht auf Verluste den Weg frei räumen. Der Schaden und die Massenkontrolle stellen sicher, dass kein Kampf je fair ist.",
+		"picture": "https://nwp-cgn.de/img/game/profil/breach.png",
+		"personUrl": "https://nwp-cgn.de/img/game/game/breach.png",
+		"characterUrl": "https://nwp-cgn.de/img/game/art/breach.png",
+		"daten": {}
+	},
+	{
+		"id": 17,
+		"slug": "brimstone",
+		"name": "Brimstone",
+		"klasse": "Taktiker",
+		"description": "Brimstone kommt aus den USA und sein orbitales Arsenal sorgt dafür, dass sein Team stets einen klaren Vorteil hat. Er sorgt präzise und sicher für Unterstützung, was ihn zu einem perfekten Kommandanten macht.",
+		"picture": "https://nwp-cgn.de/img/game/profil/brimstone.png",
+		"personUrl": "https://nwp-cgn.de/img/game/game/brimstone.png",
+		"characterUrl": "https://nwp-cgn.de/img/game/art/brimstone.png",
+		"daten": {}
+	},
+	{
+		"id": 20,
+		"slug": "chamber",
+		"name": "Chamber",
+		"klasse": "Wächter",
+		"description": "Gut gekleidet und bewaffnet vertreibt der französische Waffendesigner Chamber Angreifer mit tödlicher Präzision. Mit seinem individuellen Arsenal behält er alles im Blick, schaltet Feinde aus der Ferne aus und hat für jeden Plan einen Plan B.",
+		"picture": "https://nwp-cgn.de/img/game/profil/chamber.png",
+		"personUrl": "https://nwp-cgn.de/img/game/game/chamber.png",
+		"characterUrl": "https://nwp-cgn.de/img/game/art/chamber.png",
+		"daten": {}
+	},
+	{
+		"id": 19,
+		"slug": "cypher",
+		"name": "Cypher",
+		"klasse": "Wächter",
+		"description": "Cypher, der marokkanische Informationshändler, ist ein Ein-Mann-Überwachungskommando, das die Bewegungen des Gegners genau im Blick behält. Kein Geheimnis ist sicher. Kein Manöver bleibt unbeobachtet. Cypher entgeht nichts.",
+		"picture": "https://nwp-cgn.de/img/game/profil/cypher.png",
+		"personUrl": "https://nwp-cgn.de/img/game/game/cypher.png",
+		"characterUrl": "https://nwp-cgn.de/img/game/art/cypher.png",
+		"daten": {}
+	},
+	{
+		"id": 23,
+		"slug": "fade",
+		"name": "Fade",
+		"klasse": "Initiator",
+		"description": "Die türkische Kopfgeldjägerin Fade entlockt Gegnern mit der Macht der Albträume ihre Geheimnisse. Sie arbeitet mit dem Schrecken selbst zusammen, jagt ihre Ziele und enthüllt deren Ängste – bevor sie sie in der Dunkelheit zermalmt.",
+		"picture": "https://nwp-cgn.de/img/game/profil/fade.png",
+		"personUrl": "https://nwp-cgn.de/img/game/game/fade.png",
+		"characterUrl": "https://nwp-cgn.de/img/game/art/fade.png",
+		"daten": {}
+	},
+	{
+		"id": 4,
+		"slug": "kayo",
+		"name": "Kayo",
+		"klasse": "Initiator",
+		"description": "KAY/O ist eine Kriegsmaschine mit nur einem Zweck: die Neutralisierung von Radiants. Er kann gegnerische Fähigkeiten unterdrücken, behindert sie dadurch und verschafft sich und seinen Verbündeten so einen Vorteil.",
+		"picture": "https://nwp-cgn.de/img/game/profil/kayo.png",
+		"personUrl": "https://nwp-cgn.de/img/game/game/kayo.png",
+		"characterUrl": "https://nwp-cgn.de/img/game/art/kayo.png",
+		"daten": {}
+	},
+	{
+		"id": 5,
+		"slug": "omen",
+		"name": "Omen",
+		"klasse": "Taktiker",
+		"description": "Omen ist das Phantom einer Erinnerung und jagt in den Schatten. Er kann Gegnern die Sicht nehmen und sich dann über die Karte teleportieren. Die Ungewissheit, wo er als Nächstes zuschlägt, macht seine Gegner wahnsinnig.",
+		"picture": "https://nwp-cgn.de/img/game/profil/omen.png",
+		"personUrl": "https://nwp-cgn.de/img/game/game/omen.png",
+		"characterUrl": "https://nwp-cgn.de/img/game/art/omen.png",
+		"daten": {}
+	},
+	{
+		"id": 13,
+		"slug": "phoenix",
+		"name": "Phoenix",
+		"klasse": "Duellant",
+		"description": "Phoenix stammt aus Großbritannien und seine Starqualitäten kommen auch in seinen Kampffähigkeiten zur Geltung. Sein Publikum ist entweder geblendet oder Feuer und Flamme. Ob mit oder ohne Verstärkung – der Kampf beginnt, wenn er es sagt.",
+		"picture": "https://nwp-cgn.de/img/game/profil/phoenix.png",
+		"personUrl": "https://nwp-cgn.de/img/game/game/phoenix.png",
+		"characterUrl": "https://nwp-cgn.de/img/game/art/phoenix.png",
+		"daten": {}
+	},
+	{
+		"id": 8,
+		"slug": "raze",
+		"name": "Raze",
+		"klasse": "Duellant",
+		"description": "Die explosive Raze bringt eine laute Persönlichkeit und dicke Knarren aus Brasilien mit. Durch ihre brachiale Spielweise ist sie besonders gut darin, Gegner aufzuscheuchen und beengte Räume mit einer großzügigen Portion „Bumm“ zu säubern.",
+		"picture": "https://nwp-cgn.de/img/game/profil/raze.png",
+		"personUrl": "https://nwp-cgn.de/img/game/game/raze.png",
+		"characterUrl": "https://nwp-cgn.de/img/game/art/raze.png",
+		"daten": {}
+	},
+	{
+		"id": 21,
+		"slug": "reyna",
+		"name": "Reyna",
+		"klasse": "Duellant",
+		"description": "Reyna kommt aus dem Herzen Mexikos, brilliert in Kämpfen gegen einzelne Gegner und wird mit jedem Kill stärker. Ihr Können ist das einzige Limit für ihr Potenzial und sie hängt sehr von der erbrachten Leistung ab.",
+		"picture": "https://nwp-cgn.de/img/game/profil/reyna.png",
+		"personUrl": "https://nwp-cgn.de/img/game/game/reyna.png",
+		"characterUrl": "https://nwp-cgn.de/img/game/art/reyna.png",
+		"daten": {}
+	},
+	{
+		"id": 16,
+		"slug": "sage",
+		"name": "Sage",
+		"klasse": "Wächter",
+		"description": "Sage ist Chinas Fels in der Brandung und garantiert Sicherheit für sich und ihr Team, wohin auch immer sie geht. Dank ihrer einzigartigen Fähigkeit, gefallene Verbündete wiederzuerwecken und aggressives Vorrücken zu verhindern, ist sie in einem Kampf das Auge des Sturms.",
+		"picture": "https://nwp-cgn.de/img/game/profil/sage.png",
+		"personUrl": "https://nwp-cgn.de/img/game/game/sage.png",
+		"characterUrl": "https://nwp-cgn.de/img/game/art/sage.png",
+		"daten": {}
+	},
+	{
+		"id": 3,
+		"slug": "skye",
+		"name": "Skye",
+		"klasse": "Initiator",
+		"description": "Die Australierin Skye und ihr Rudel bahnen einen Weg durch gegnerisches Gebiet für das Team. Ihre Geschöpfe behindern den Gegner und durch ihre Heilkräfte kann ihrem Team nichts zustoßen, solange es an ihrer Seite ist.",
+		"picture": "https://nwp-cgn.de/img/game/profil/skye.png",
+		"personUrl": "https://nwp-cgn.de/img/game/game/skye.png",
+		"characterUrl": "https://nwp-cgn.de/img/game/art/skye.png",
+		"daten": {}
+	},
+	{
+		"id": 10,
+		"slug": "sova",
+		"name": "Sova",
+		"klasse": "Initiator",
+		"description": "Sova stammt aus dem ewigen Winter der russischen Tundra und verfolgt, findet und eliminiert Gegner mit gnadenloser Effizienz und Präzision. Sein Spezialbogen und seine unglaublichen Späherfähigkeiten sorgen dafür, dass du zwar fliehen, aber nicht entkommen kannst.",
+		"picture": "https://nwp-cgn.de/img/game/profil/sova.png",
+		"personUrl": "https://nwp-cgn.de/img/game/game/sova.png",
+		"characterUrl": "https://nwp-cgn.de/img/game/art/sova.png",
+		"daten": {}
+	},
+	{
+		"id": 9,
+		"slug": "viper",
+		"name": "Viper",
+		"klasse": "Taktiker",
+		"description": "Viper ist eine Chemikerin aus den USA und setzt eine Reihe von Geräten mit giftigen Chemikalien ein, um die Kontrolle über das Schlachtfeld zu behalten und dem Gegner die Sicht zu nehmen. Falls das Gift ihre Beute nicht zur Strecke bringt, erledigen ihre Psychospielchen das Übrige.",
+		"picture": "https://nwp-cgn.de/img/game/profil/viper.png",
+		"personUrl": "https://nwp-cgn.de/img/game/game/viper.png",
+		"characterUrl": "https://nwp-cgn.de/img/game/art/viper.png",
+		"daten": {}
+	},
+	{
+		"id": 14,
+		"slug": "yoru",
+		"name": "Yoru",
+		"klasse": "Duellant",
+		"description": "Der Japaner Yoru reißt Löcher in die Realität, um unbeobachtet hinter die feindlichen Linien zu gelangen. Er setzt gleichermaßen auf Irreführung und Aggression und ist seinen Gegnern bereits einen Schritt voraus, bevor sie wissen, wie ihnen geschieht.",
+		"picture": "https://nwp-cgn.de/img/game/profil/yoru.png",
+		"personUrl": "https://nwp-cgn.de/img/game/game/yoru.png",
+		"characterUrl": "https://nwp-cgn.de/img/game/art/yoru.png",
+		"daten": {}
+	}
+]

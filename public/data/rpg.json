@@ -1,0 +1,95 @@
+{
+  "views": [
+    {
+      "id": 0,
+      "name": "Start",
+      "slug": "start",
+      "href": "/",
+      "icon": "#house",
+      "icons": [],
+      "hidden": false,
+      "page": {
+        "header": "Willkommen to RPG!",
+        "body": "Dies ist ein Open-Source-Projekt mit dem Ziel, das BESTE inkrementelle Spiel der Welt aller Zeiten zu entwickeln!"
+      }
+    },
+    {
+      "id": 1,
+      "name": "Resourcen",
+      "slug": "res",
+      "href": "/rpg/res",
+      "icon": "#cube",
+      "icons": [],
+      "hidden": false,
+      "page": {
+        "header": "Resourcen",
+        "body": "Um mit dem Bau Ihrer Stadt zu beginnen, klicken Sie auf Holz hacken, Steine abbauen und Nahrung sammeln, um die entsprechenden Ressourcen zu sammeln."
+      }
+    },
+    {
+      "id": 2,
+      "name": "Storage",
+      "slug": "store",
+      "href": "/rpg/store",
+      "icon": "#database",
+      "icons": [],
+      "hidden": false,
+      "page": {
+        "header": "Resourcen Lage",
+        "body": "Baue Lagerhäuser, um mehr Ressourcen zu lagern."
+      }
+    },
+    {
+      "id": 3,
+      "name": "Buildings",
+      "slug": "build",
+      "href": "/rpg/build",
+      "icon": "#concrete-bag",
+      "icons": [],
+      "hidden": false,
+      "page": {
+        "header": "Nutzen Sie die gesammelten Ressourcen, um Unterkünfte zu bauen, damit Sie Arbeiter einstellen können.",
+        "body": "Einige Gebäude müssen erforscht werden, bevor Sie sie bauen können."
+      }
+    },
+    {
+      "id": 4,
+      "name": "Worker",
+      "slug": "work",
+      "href": "/rpg/work",
+      "icon": "#player-base",
+      "icons": [],
+      "hidden": false,
+      "page": {
+        "header": "Workers",
+        "body": "Klicken Sie auf die Schaltflächen unten, um Arbeiter zu erstellen, die Ressourcen für Sie sammeln. Sie benötigen jedoch zunächst einen Ort, an dem sie leben können."
+      }
+    },
+    {
+      "id": 5,
+      "name": "Upgrades",
+      "slug": "upgrades",
+      "href": "/rpg/upgrades",
+      "icon": "#chart",
+      "icons": [],
+      "hidden": false,
+      "page": {
+        "header": "Upgrades",
+        "body": "Klicken Sie auf die Schaltflächen unten, um Ubgrades zu erwerben.."
+      }
+    },
+    {
+      "id": 6,
+      "name": "Settings",
+      "slug": "settings",
+      "href": "/rpg/settings",
+      "icon": "#settings-knobs",
+      "icons": [],
+      "hidden": false,
+      "page": {
+        "header": "Settings",
+        "body": "Klicken Sie auf die Schaltflächen unten, um Ubgrades zu erwerben.."
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+	"name": "Stepper",
+	"current": 0,
+	"view": {
+		"id": 1,
+		"slug": "load",
+		"viewType": "layer",
+		"title": "Loading Screen"
+	},
+	"views": [
+		{
+			"id": 1,
+			"slug": "load",
+			"viewType": "layer",
+			"title": "Loading Screen"
+		},
+		{
+			"id": 2,
+			"slug": "logo",
+			"viewType": "layer",
+			"title": "Logo Animation"
+		},
+		{
+			"id": 3,
+			"slug": "landing",
+			"viewType": "page",
+			"title": "Landing Page"
+		},
+		{
+			"id": 4,
+			"slug": "battle",
+			"viewType": "page",
+			"title": "Battle Page"
+		},
+		{
+			"id": 5,
+			"slug": "fighter",
+			"viewType": "page",
+			"title": "Fighter Page"
+		},
+		{
+			"id": 6,
+			"slug": "oppon",
+			"viewType": "page",
+			"title": "Opponent Page"
+		},
+		{
+			"id": 7,
+			"slug": "arena",
+			"viewType": "page",
+			"title": "Arena Page"
+		},
+		{
+			"id": 8,
+			"slug": "result",
+			"viewType": "layer",
+			"title": "Result Page"
+		}
+	],
+	"viewObj": {
+		"1": {
+			"id": 1,
+			"slug": "load",
+			"viewType": "layer",
+			"title": "Loading Screen"
+		},
+		"2": {
+			"id": 2,
+			"slug": "logo",
+			"viewType": "layer",
+			"title": "Logo Animation"
+		},
+		"3": {
+			"id": 3,
+			"slug": "landing",
+			"viewType": "page",
+			"title": "Landing Page"
+		},
+		"4": {
+			"id": 4,
+			"slug": "battle",
+			"viewType": "page",
+			"title": "Battle Page"
+		},
+		"5": {
+			"id": 5,
+			"slug": "fighter",
+			"viewType": "page",
+			"title": "Fighter Page"
+		},
+		"6": {
+			"id": 6,
+			"slug": "oppon",
+			"viewType": "page",
+			"title": "Opponent Page"
+		},
+		"7": {
+			"id": 7,
+			"slug": "arena",
+			"viewType": "page",
+			"title": "Arena Page"
+		},
+		"8": {
+			"id": 8,
+			"slug": "result",
+			"viewType": "layer",
+			"title": "Result Page"
+		}
+	}
+}

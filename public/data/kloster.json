@@ -1,0 +1,101 @@
+[
+    {
+      "id": 1,
+      "titel": "Abtissin",
+      "name": "Maria Theresa",
+      "beschreibung": "Eine Frau, die sich im ersten Ausbildungsstadium befindet, um Nonne zu werden. Sie lernt die Regeln und das spirituelle Leben des Ordens.",
+      "img_link": "https://i.imgur.com/81GNV7p.jpeg",
+      "thumb_link": "https://i.imgur.com/81GNV7pm.jpg",
+      "md_img": "![painterly_anime_artwork_nun_wh.jpeg](https://i.imgur.com/81GNV7p.jpeg)",
+      "html_img": "<img src=\"https://i.imgur.com/81GNV7p.jpeg\"/>",
+      "html_link": "<a href=\"https://i.imgur.com/81GNV7p.jpeg\"><img src=\"https://i.imgur.com/81GNV7pm.jpg\"/></a>"
+    },
+    {
+      "id": 2,
+      "titel": "Oberin",
+      "name": "Johanna",
+      "beschreibung": "Eine Nonne, die die einfachen oder ewigen Gelübde abgelegt hat und in der Gemeinschaft lebt. Sie kann verschiedene Rollen innerhalb des Ordens haben.",
+      "img_link": "https://i.imgur.com/nm0wB1Z.jpeg",
+      "thumb_link": "https://i.imgur.com/nm0wB1Zm.jpg",
+      "md_img": "![painterly_anime_artwork_nun_ol.jpeg](https://i.imgur.com/nm0wB1Z.jpeg)",
+      "html_img": "<img src=\"https://i.imgur.com/nm0wB1Z.jpeg\"/>",
+      "html_link": "<a href=\"https://i.imgur.com/nm0wB1Z.jpeg\"><img src=\"https://i.imgur.com/nm0wB1Zm.jpg\"/></a>"
+    },
+    {
+      "id": 3,
+      "titel": "Schwester",
+      "name": "Lucia",
+      "beschreibung": "Die leitende Nonne eines Klosters oder einer Gemeinschaft. Die Oberin ist für die Führung und Organisation des Klosters verantwortlich.",
+      "img_link": "https://i.imgur.com/OKkc2Mm.jpeg",
+      "thumb_link": "https://i.imgur.com/OKkc2Mmm.jpg",
+      "md_img": "![painterly_anime_artwork_nun_ol(1).jpeg](https://i.imgur.com/OKkc2Mm.jpeg)",
+      "html_img": "<img src=\"https://i.imgur.com/OKkc2Mm.jpeg\"/>",
+      "html_link": "<a href=\"https://i.imgur.com/OKkc2Mm.jpeg\"><img src=\"https://i.imgur.com/OKkc2Mmm.jpg\"/></a>"
+    },
+    {
+      "id": 4,
+      "titel": "Novizin",
+      "name": "Beatrice",
+      "beschreibung": "Ähnlich wie die Oberin, leitet die Priorin ein Kloster oder eine Gemeinschaft und kann auch eine höhere Autorität innerhalb des Ordens repräsentieren.",
+      "img_link": "https://i.imgur.com/F68div4.jpeg",
+      "thumb_link": "https://i.imgur.com/F68div4m.jpg",
+      "md_img": "![painterly_anime_artwork_nun_ol(2).jpeg](https://i.imgur.com/F68div4.jpeg)",
+      "html_img": "<img src=\"https://i.imgur.com/F68div4.jpeg\"/>",
+      "html_link": "<a href=\"https://i.imgur.com/F68div4.jpeg\"><img src=\"https://i.imgur.com/F68div4m.jpg\"/></a>"
+    },
+    {
+      "id": 5,
+      "titel": "Schwester",
+      "name": "Isabel",
+      "beschreibung": "Die Leiterin eines Frauenklosters, insbesondere in einem kontemplativen oder klösterlichen Umfeld.",
+      "img_link": "https://i.imgur.com/LtLRfcF.jpeg",
+      "thumb_link": "https://i.imgur.com/LtLRfcFm.jpg",
+      "md_img": "![painterly_anime_artwork_An_eld(2).jpeg](https://i.imgur.com/LtLRfcF.jpeg)",
+      "html_img": "<img src=\"https://i.imgur.com/LtLRfcF.jpeg\"/>",
+      "html_link": "<a href=\"https://i.imgur.com/LtLRfcF.jpeg\"><img src=\"https://i.imgur.com/LtLRfcFm.jpg\"/></a>"
+    },
+    {
+      "id": 6,
+      "titel": "Schwester",
+      "name": "Elena",
+      "beschreibung": "Eine erfahrene Nonne, die für die Ausbildung und Anleitung der Novizinnen verantwortlich ist.",
+      "img_link": "https://i.imgur.com/8unFsEF.jpeg",
+      "thumb_link": "https://i.imgur.com/8unFsEFm.jpg",
+      "md_img": "![painterly_anime_artwork_An_eld.jpeg](https://i.imgur.com/8unFsEF.jpeg)",
+      "html_img": "<img src=\"https://i.imgur.com/8unFsEF.jpeg\"/>",
+      "html_link": "<a href=\"https://i.imgur.com/8unFsEF.jpeg\"><img src=\"https://i.imgur.com/8unFsEFm.jpg\"/></a>"
+    },
+    {
+      "id": 7,
+      "titel": "Schwester",
+      "name": "Theresa",
+      "beschreibung": "Eine Nonne, die die einfachen oder ewigen Gelübde abgelegt hat und in der Gemeinschaft lebt. Sie kann verschiedene Rollen innerhalb des Ordens haben.",
+      "img_link": "https://i.imgur.com/PQSvspO.jpeg",
+      "thumb_link": "https://i.imgur.com/PQSvspOm.jpg",
+      "md_img": "![painterly_anime_artwork_An_eld(1).jpeg](https://i.imgur.com/PQSvspO.jpeg)",
+      "html_img": "<img src=\"https://i.imgur.com/PQSvspO.jpeg\"/>",
+      "html_link": "<a href=\"https://i.imgur.com/PQSvspO.jpeg\"><img src=\"https://i.imgur.com/PQSvspOm.jpg\"/></a>"
+    },
+    {
+      "id": 8,
+      "titel": "Schwester",
+      "name": "Johanna",
+      "beschreibung": "Eine Nonne, die die einfachen oder ewigen Gelübde abgelegt hat und in der Gemeinschaft lebt. Sie kann verschiedene Rollen innerhalb des Ordens haben.",
+      "img_link": "https://i.imgur.com/GwIi4zr.jpeg",
+      "thumb_link": "https://i.imgur.com/GwIi4zrm.jpg",
+      "md_img": "![painterly_anime_artwork_Abbess.jpeg](https://i.imgur.com/GwIi4zr.jpeg)",
+      "html_img": "<img src=\"https://i.imgur.com/GwIi4zr.jpeg\"/>",
+      "html_link": "<a href=\"https://i.imgur.com/GwIi4zr.jpeg\"><img src=\"https://i.imgur.com/GwIi4zrm.jpg\"/></a>"
+    },
+    {
+      "id": 9,
+      "titel": "Schwester",
+      "name": "Lucia",
+      "beschreibung": "Eine Nonne, die die einfachen oder ewigen Gelübde abgelegt hat und in der Gemeinschaft lebt. Sie kann verschiedene Rollen innerhalb des Ordens haben.",
+      "img_link": "https://i.imgur.com/WcqcZiZ.jpeg",
+      "thumb_link": "https://i.imgur.com/WcqcZiZm.jpg",
+      "md_img": "![nun_older_skinny_art_by_atey_g.jpeg](https://i.imgur.com/WcqcZiZ.jpeg)",
+      "html_img": "<img src=\"https://i.imgur.com/WcqcZiZ.jpeg\"/>",
+      "html_link": "<a href=\"https://i.imgur.com/WcqcZiZ.jpeg\"><img src=\"https://i.imgur.com/WcqcZiZm.jpg\"/></a>"
+    }
+  ]

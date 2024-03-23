@@ -1,0 +1,170 @@
+{
+  "player": [
+    {
+      "name": "🦸 Rexx Tronton",
+      "health": 29,
+      "maxHealth": 28,
+      "pointsId": "player",
+      "healthbarId": "player",
+      "attacks": [
+        [
+          "🗡️ Sword",
+          5, 
+          6,
+          "🗡️ You are trying to bash the opponent away with your sword ...",
+          "💫 The enemy repels the attack ..."
+        ],
+        [
+          "🪃 Boomerang",
+          6,
+          4,
+          "🪃 You are trying hit the enemy with a boomerang ...",
+          "💫 The enemy bends down under your attack"
+        ],
+        [
+          "💣 Granade",
+          5,
+          5,
+          "💣 You throw a grenade on your opponent ...",
+          "💫 The enemy dodges the grenade ..."
+        ]
+      ]
+    },
+    {
+      "name": "🤖 Jones Verr",
+      "health": 30,
+      "maxHealth": 29,
+      "pointsId": "player",
+      "healthbarId": "player",
+      "attacks": [
+        [
+          "🪃 Boomerang",
+          4,
+          5,
+          "🪃 You are trying hit the enemy with a boomerang ...",
+          "💫 The enemy bends down under your attack"
+        ],
+        [
+          "💣 Granade",
+          7,
+          8,
+          "💣 You throw a grenade on your opponent ...",
+          "💫 The enemy dodges the grenade ..."
+        ],
+        [
+          "🗡️ Sword",
+          3,
+          3,
+          "🗡️ You are trying to bash the opponent away with your sword ...",
+          "💫 The enemy repels the attack ..."
+        ]
+      ]
+    },
+    {
+      "name": "💀 Geneva Boomboom",
+      "health": 28,
+      "maxHealth": 27,
+      "pointsId": "player",
+      "healthbarId": "player",
+      "attacks": [
+        [
+          "🛡️ Shield Bash",
+          2,
+          3,
+          "🛡️ You are trying to bash the opponent away with your shield ...",
+          "💫 The enemy dodges your attack ..."
+        ],
+        [
+          "🔨 Mace Attack",
+          6,
+          6,
+          "🔨 You are trying hit the enemy with a huge mace ...",
+          "💫 The enemy dodges your attack ..."
+        ],
+        [
+          "🌀 Magic Attack",
+          1,
+          4,
+          "🌀 You are trying to cast a spell on your opponent ...",
+          "💫 The enemy dodges your attack ..."
+        ]
+      ]
+    },
+    {
+      "name": "🧌 Amaratsu Slag",
+      "health": 22,
+      "maxHealth": 21,
+      "pointsId": "player",
+      "healthbarId": "player",
+      "attacks": [
+        [
+          "🛡️ Shield Bash",
+          2,
+          3,
+          "🛡️ You are trying to bash the opponent away with your shield ...",
+          "💫 The enemy dodges your attack ..."
+        ],
+        [
+          "🔨 Mace Attack",
+          6,
+          6,
+          "🔨 You are trying hit the enemy with a huge mace ...",
+          "💫 The enemy dodges your attack ..."
+        ],
+        [
+          "🌀 Magic Attack",
+          1,
+          4,
+          "🌀 You are trying to cast a spell on your opponent ...",
+          "💫 The enemy dodges your attack ..."
+        ]
+      ]
+    }
+  ],
+  "enemy": [
+    {
+      "name": "👽 Cuuwing",
+      "health": 22,
+      "maxHealth": 21,
+      "pointsId": "enemy",
+      "healthbarId": "enemy",
+      "hardAttackDamage": 5,
+      "hardAttackDice": 6,
+      "weakAttackDamage": 4,
+      "weakAttackDice": 5
+    },
+    {
+      "name": "👾 Goblin Warrior",
+      "health": 26,
+      "maxHealth": 22,
+      "pointsId": "enemy",
+      "healthbarId": "enemy",
+      "hardAttackDamage": 4,
+      "hardAttackDice": 4,
+      "weakAttackDamage": 3,
+      "weakAttackDice": 3
+    },
+    {
+      "name": "🥷 Wispfree Jones ",
+      "health": 12,
+      "maxHealth": 11,
+      "pointsId": "enemy",
+      "healthbarId": "enemy",
+      "hardAttackDamage": 4,
+      "hardAttackDice": 8,
+      "weakAttackDamage": 2,
+      "weakAttackDice": 3
+    },
+    {
+      "name": "🧛 Break Gett",
+      "health": 20,
+      "maxHealth": 18,
+      "pointsId": "enemy",
+      "healthbarId": "enemy",
+      "hardAttackDamage": 6,
+      "hardAttackDice": 76,
+      "weakAttackDamage": 4,
+      "weakAttackDice": 5
+    }
+  ]
+}

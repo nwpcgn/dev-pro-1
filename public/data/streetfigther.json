@@ -1,0 +1,74 @@
+[
+    {
+      "id": 0,
+      "title": "Ken 1",
+      "desciption": "Street Figther 2 Sprite",
+      "url": "./sprites/1/sprites.json",
+      "bg": "./sprites/1/sprites.png",
+      "w": 512,
+      "h": 512
+    },
+    {
+      "id": 1,
+      "title": "Chun Lee 1",
+      "desciption": "Street Figther 2 Sprite",
+      "url": "./sprites/2/sprites.json",
+      "bg": "./sprites/2/sprites.png",
+      "w": 512,
+      "h": 256
+    },
+    {
+      "id": 2,
+      "title": "Blanka 1",
+      "desciption": "Street Figther 2 Sprite",
+      "url": "./sprites/bl1/sprites.json",
+      "bg": "./sprites/bl1/sprites.png",
+      "w": 512,
+      "h": 256
+    },
+    {
+      "id": 3,
+      "title": "Dhalsim 1",
+      "desciption": "Street Figther 2 Sprite",
+      "url": "./sprites/dh1/sprites.json",
+      "bg": "./sprites/dh1/sprites.png",
+      "w": 512,
+      "h": 256
+    },
+    {
+      "id": 4,
+      "title": "Dhalsim 2",
+      "desciption": "Street Figther 2 Sprite",
+      "url": "./sprites/dh2/sprites.json",
+      "bg": "./sprites/dh2/sprites.png",
+      "w": 512,
+      "h": 256
+    },
+    {
+      "id": 5,
+      "title": "Honda 1",
+      "desciption": "Street Figther 2 Sprite",
+      "url": "./sprites/ho1/sprites.json",
+      "bg": "./sprites/ho1/sprites.png",
+      "w": 512,
+      "h": 512
+    },
+    {
+      "id": 6,
+      "title": "Honda 2",
+      "desciption": "Street Figther 2 Sprite",
+      "url": "./sprites/ho2/sprites.json",
+      "bg": "./sprites/ho2/sprites.png",
+      "w": 256,
+      "h": 256
+    },
+    {
+      "id": 7,
+      "title": "Honda 3",
+      "desciption": "Street Figther 2 Sprite",
+      "url": "./sprites/ho3/sprites.json",
+      "bg": "./sprites/ho3/sprites.png",
+      "w": 512,
+      "h": 512
+    }
+  ]
